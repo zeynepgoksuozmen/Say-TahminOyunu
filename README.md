@@ -30,11 +30,11 @@ Projenin amacı, Windows Forms ile masaüstü uygulama arayüzleri oluşturmayı
 
 ## 📸 Ekran Görüntüleri
 
-![Ekran görüntüsü 1](images/screenshot1.png)
+![Ekran görüntüsü 1](images_/screenshot1.png)
 
-![Ekran görüntüsü 2](images/screenshot2.png)
+![Ekran görüntüsü 2](images_/screenshot2.png)
 
-![Ekran görüntüsü 3](images/screenshot3.png)
+![Ekran görüntüsü 3](images_/screenshot3.png)
 
 ---
 
@@ -68,11 +68,11 @@ The goal of the project is to learn how to create desktop application interfaces
 
 ## 📸 Screenshots
 
-![Screenshot 1](images/screenshot1.png)
+![Screenshot 1](images_/screenshot1.png)
 
-![Screenshot 2](images/screenshot2.png)
+![Screenshot 2](images_/screenshot2.png)
 
-![Screenshot 3](images/screenshot3.png)
+![Screenshot 3](images_/screenshot3.png)
 
 ---
 
